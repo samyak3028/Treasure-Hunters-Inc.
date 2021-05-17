@@ -14,12 +14,22 @@ Firstly, reward points are set which depicts real time scenarios like moving on 
 
 Secondly, a map function is defined which sets the dimension and colour of various features to construct a map and map constants are also determine.
 
+![Markov Model Built](https://github.com/samyak3028/Treasure-Hunters-Inc./blob/main/map.png?raw=true)
+
+
 
 Thirdly, there are various functions related to movement of objects which includes “Move_state”  determines what are the possible walks in which object can move based on direction like north, south, east , and west, “possible_move” determines the possible move from a arbitary state ,“best_next_move” determines the optimal move from a position, and next_move determines the next move for exploring and exploiting.
 
 Fourthly, all the states are converted into positions, model is trained multiple times.
 
+![Markov Model Built](https://github.com/samyak3028/Treasure-Hunters-Inc./blob/main/output.png?raw=true)
+
+
 Finally, Output is generated and path is determined on the basis of highest value in Q matrix.
+
+
+![Markov Model Built](https://github.com/samyak3028/Treasure-Hunters-Inc./blob/main/map_output.png?raw=true)
+
 
 
 
