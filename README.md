@@ -14,7 +14,7 @@ Firstly, reward points are set which depicts real time scenarios like moving on 
 
 Secondly, a map function is defined which sets the dimension and colour of various features to construct a map and map constants are also determine.
 
-![Markov Model Built](https://github.com/samyak3028/Treasure-Hunters-Inc./blob/main/map.png?raw=true)
+![Treasure-Hunters-Inc.](https://github.com/samyak3028/Treasure-Hunters-Inc./blob/main/map.png?raw=true)
 
 
 
@@ -22,13 +22,13 @@ Thirdly, there are various functions related to movement of objects which includ
 
 Fourthly, all the states are converted into positions, model is trained multiple times.
 
-![Markov Model Built](https://github.com/samyak3028/Treasure-Hunters-Inc./blob/main/output.png?raw=true)
+![Treasure-Hunters-Inc.](https://github.com/samyak3028/Treasure-Hunters-Inc./blob/main/output.png?raw=true)
 
 
 Finally, Output is generated and path is determined on the basis of highest value in Q matrix.
 
 
-![Markov Model Built](https://github.com/samyak3028/Treasure-Hunters-Inc./blob/main/mapoutput.png?raw=true)
+![Treasure-Hunters-Inc.](https://github.com/samyak3028/Treasure-Hunters-Inc./blob/main/final.png?raw=true)
 
 
 
