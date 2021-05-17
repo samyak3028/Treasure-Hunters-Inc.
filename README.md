@@ -28,7 +28,7 @@ Fourthly, all the states are converted into positions, model is trained multiple
 Finally, Output is generated and path is determined on the basis of highest value in Q matrix.
 
 
-![Markov Model Built](https://github.com/samyak3028/Treasure-Hunters-Inc./blob/main/map_output.png?raw=true)
+![Markov Model Built](https://github.com/samyak3028/Treasure-Hunters-Inc./blob/main/mapoutput.png?raw=true)
 
 
 
