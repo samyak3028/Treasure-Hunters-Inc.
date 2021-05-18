@@ -28,12 +28,21 @@ Fourthly, all the states are converted into positions, model is trained multiple
 Finally, Output is generated and path is determined on the basis of highest value in Q matrix.
 
 
+
+
+
 ![Treasure-Hunters-Inc.](https://github.com/samyak3028/Treasure-Hunters-Inc./blob/main/final.png?raw=true)
 
 
 
+### Libraries Used
+* numpy
+
+* matplotlib
 
 
+### Refrences
+https://visualstudiomagazine.com/articles/2018/10/18/q-learning-with-python.aspx
 
 
 
